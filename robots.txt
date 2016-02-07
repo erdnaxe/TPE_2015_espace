@@ -1,0 +1,10 @@
+# robots.txt
+# @url: http://www.tpe2015espace.fr
+# @generator: SPIP 3.0.17 [21515]
+# @template: squelettes-dist/robots.txt.html
+
+User-agent: *
+Disallow: /assets/img/content/jpg/
+Crawl-delay: 1
+
+Sitemap: http://www.tpe2015espace.fr/sitemap.xml

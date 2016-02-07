@@ -1,0 +1,14 @@
+body{margin:0;padding:0;background:url("../img/cover.jpg") #000 no-repeat center fixed;-webkit-background-size:cover;background-size:cover;color:#fff;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}
+a{color:#aac;text-decoration:none}
+a:hover{color:#999;text-decoration:none}
+.colophon{height:80px;width:500px;margin:0;line-height:24.0023994445801px;border-top:1px solid #fff}
+.page{position:relative;width:90%;margin:0 auto;padding:50px 1.5em;text-align:left;height:100%}
+h1,.subtitle{text-shadow:0 0 2px #000;}
+h1{color:#668A68}
+h2{color:#B1C3B2}
+.subtitle{color:#999DA6;font-size:150%;font-weight:700}
+.menu{clear:both;margin-bottom:3em;text-align:left;text-shadow:0 0 4px #000}
+.menu ul{margin-bottom:1.5em;padding:0}
+.menu ul li ul{margin-left:1.5em;list-style:circle}
+.menu h3{margin:10px 0 0}
+.menu ul{margin:0 0 0 20px;list-style-type:square}
